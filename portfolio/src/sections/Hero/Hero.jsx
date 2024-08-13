@@ -28,6 +28,7 @@ function Hero() {
       <div className={styles.info}>
         <h1>James Albert <br/>Postadan</h1>
         <h2>Developer</h2>
+        
         <span >
           <a href="https://twitter.com" target= "blank">
             <img src={twitterIcon} alt="Twitter Icon" />
